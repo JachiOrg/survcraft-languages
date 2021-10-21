@@ -1,17 +1,21 @@
 bf41da93-2788-4450-8684-4443d55f988b.shopguistacks: stacks
 23695483-7dca-4a72-986c-e983daba0944.scoreboardstats: Estadísticas
 d3d570a6-bec9-49d3-bc72-611136535064.shopguinextpagelore1: Clic para pasar
+f256797a-8c63-4370-b6c2-b0c0fb813e38.shopguicategorydecorations: Decoraciones
+82d82214-9ab4-43d8-89e5-e92bb5dbde78.shopguipluscategorybrewing: Elaboración de cerveza
+90e56576-3866-418a-bf91-e6f31269f587.shopguiplusblocks2: Bloques
 91828596-4e85-4639-813b-4837a907bd1d.shopguithisadds: Esto añade
 aab48f5e-0dfe-4cb4-a455-3a0357a03560.shopguiall: todos
 0894df70-d166-4c93-aab1-fd1581de27b6.scoreboardlevel: Nivel
-56e0234f-bb43-492c-b42a-d1635464b4a5.shopguilclicktosell: Haga clic con el botón izquierdo del ratón para vender
+56e0234f-bb43-492c-b42a-d1635464b4a5.shopguilclicktosell: Clic izquierdo para vender
+5ede0ca6-ba48-43c2-b3f8-d2efd9f2dbd8.shopguiredstonelore: items/bloques relacionados con la redstone.
 54306c7a-8863-4c61-a1fa-f92297dbad24.shopguiremove: Eliminar
 1abca69a-5985-45b6-8224-fa5d045648ed.shopguionetime: una vez
-bfc2350c-3d81-4c62-90ef-5994189cf6a6.shopguicancellore1: Salir del menú de compras
 91cc96f4-0937-4e9c-abe7-0937ea0b0138.shopguipermission: Esto es un permiso
 76f0bcd3-1993-45d8-a661-3bacffbe4ee2.shopguicommand: Esto es un comando
 d6b461ef-ecbe-4e83-ac42-c5ca48e61872.shopguisellall: Vender todos los items
 faad644d-338f-4628-8f94-30a1113885c4.tabplaying1: Estas jugando con
+39c4467d-5817-4881-9de3-e8d3c59d9723.shopguipluscategorybrewinglore: ingredientes para la elaboración de la cerveza.
 4270c3a7-1588-4a66-8262-7c449956e406.shopguicancelselection: Anule su selección
 3722b3f3-a843-4d98-8e29-9a79a00c8804.shopguititle: Tienda de items
 8ca15444-d92b-4121-9e9d-ac033bb72a14.shopguisellprice: Precio de venta
@@ -21,17 +25,23 @@ b4032719-68cc-4007-9269-029b61a05b7a.shopguipreviouspagelore1: Clic para pasar
 d492e4d4-a400-41db-97fa-4f78bb9444c4.shopguithan64: de 64 items
 cadae4a6-a753-481e-b15a-edf26eddc8fb.shopguibuyprice: Precio de compra
 f52164b7-16bb-4b8c-a31f-29c1b844cd37.shopguiset: Establecer
+bfc2350c-3d81-4c62-90ef-5994189cf6a6.shopguiexitbulk: Salir del menú de compras
+96e430a2-fbe5-4aad-9627-e43cc1e00d4f.shopguicategorycontains: Esta categoría contiene
 ac934243-37be-4e26-8b66-a180b25348cd.shopguibackmainmenu: Volver al menú principal
 0fb60ae4-3d2e-41b7-87ba-d92b505940fa.shopguinextpagelore2: la página siguiente
 46983a4c-9723-44cc-b0a9-c570999a19b1.tabplaying2: personas
 a78c8cd7-a885-415c-9a06-580221b161c8.shopguisellalllore1: Esto venderá
 6d914bb1-f712-4753-9564-536226149a1b.shopguiblocks: bloques
+9c167eb5-771b-47eb-90f2-3830e6034cfd.shopguicategoryblockslore: bloques de construcción básicos.
 69b0a925-348b-40dd-8e4c-d5fe84902d2b.shopguiitem: item
-3063bb72-517a-43a5-b5d8-c2820ff976fa.shopguilclicktobuy: Haga clic con el botón izquierdo para comprar
-cc502a3b-46e4-45cd-933a-4655094dc06c.shopguirclicktosell: Haga clic con el botón derecho del ratón para vender
+be99f21e-a9b9-440e-9b9c-8686bff47b3c.shopguicategorymiscellaneouslore: artículos/bloques misceláneos.
+46a5fd3d-7638-49d0-88e6-50c227b73d18.shopguilclickconfirm: Clic izquierdo para confirmar
+3063bb72-517a-43a5-b5d8-c2820ff976fa.shopguilclicktobuy: Click izquierdo para comprar
+cc502a3b-46e4-45cd-933a-4655094dc06c.shopguirclicktosell: Clic derecho para vender
 ee2ef8f7-9cd6-4899-a13a-97e97ae91c86.shopguicancel: Cancelar
-cfbc20f5-a6b7-4d02-b3fa-db4700b95b7e.shopguilclicktoadd: Haz clic con el botón izquierdo del ratón para añadir
-894f7280-37b9-4199-95db-5835061cc923.shopguilclicktoremove: Haga clic con el botón izquierdo del ratón para eliminar
+cfbc20f5-a6b7-4d02-b3fa-db4700b95b7e.shopguilclicktoadd: Clic izquierdo para añadir
+fc4e8620-f733-48ad-94fc-9ffdc440244c.shopguicategorydecorationslore: items decorativos/bloques.
+894f7280-37b9-4199-95db-5835061cc923.shopguilclicktoremove: Clic izquierdo para eliminar
 903666d6-15b9-4b77-a4c6-5fd47ac9b961.shopguienchantment: Esto es un encantamiento
 a653be4c-4f78-44a7-8fe7-29fddb4d6b1e.shopguibuy: Comprar
 87b1aef1-9f67-49b1-a7a5-98c2763f5dae.shopguisell: Vender
@@ -41,8 +51,13 @@ ce93116b-d191-4692-ade6-3cb80db3e9c2.scoreboardrank: Rango
 27e52603-3906-4568-b54d-02da781c4e7a.shopguinextpage: Página siguiente
 edb84e2a-cc3d-44b9-8095-914ff8d55068.shopguicategorydescription: Descripción de la categoría
 586adf16-6cb1-453e-87c8-c53a4a76508c.shopguimore: más
-0b7fc9cb-cd01-4d4b-a46c-9bf4da3933a2.shopguilclicktoset: Haga clic con el botón izquierdo del ratón para fijar
+882425ef-3dc7-47a9-8377-17f2b400e5f3.shopguicategorymiscellaneous: Miscelánea
+0b7fc9cb-cd01-4d4b-a46c-9bf4da3933a2.shopguilclicktoset: Clic izquierdo para fijar
+d95d1a1e-4bb3-422c-a1ec-89aadc6eed73.shopguiconfirmselection: Confirma tu seleccion
+ab21ccea-77c5-4a06-9b6e-ca88f9072156.shopguibuyprice: Precio de compra
+ca4758ca-966c-4867-9120-dd75cfbe534f.shopguipricerangesell: Rango de precios de venta
 002dad8c-c326-4957-9ab3-a7c171bc8fdc.shopguipreviouspagelore2: la página hacia atrás
+077b2b9c-f5ab-4d7e-a859-c054c5f513e9.shopguipricerangebuy: Rango de precios de compra
 47f7ef6d-917b-46af-8477-57efa68a5f45.shopguiremoves: Esto elimina
 650445df-ab2d-4405-9bbe-aaf67586deeb.shopguistack: stack
 105deccf-f9a2-49f8-bfef-f56b65c28671.shopguipreviouspage: Página anterior
@@ -50,11 +65,11 @@ c23f9e87-d77e-4845-9d77-14289f7faeba.shopguiconfirm: Confirmar
 1de65414-e8db-4c7f-9596-0ccce53a9958.shopguiadd: Añadir
 98ccc15e-5ae8-46e6-86f0-374f5f35d1b0.shopguiitems: items
 c0f9f197-a1e1-4d84-bde9-42194ef56916.scoreboardname: Nombre
-045b0cda-0d61-4dfe-ae5a-409f72635866.shopguilclicktocancel: Haga clic con el botón izquierdo para cancelar
+045b0cda-0d61-4dfe-ae5a-409f72635866.shopguilclicktocancel: Clic izquierdo para cancelar
 55231a28-f720-4c8f-8b27-59826127ca0f.shopguibackmainmenulore1: Clic para volver
-3324d04b-884f-4f59-901f-b5d4a03ec859.shopguilclicktoexit: Haga clic con el botón izquierdo para salir
+3324d04b-884f-4f59-901f-b5d4a03ec859.shopguilclicktoexit: Click izquierdo para salir
 a816741b-f7c0-4220-970e-faabc2908bc9.scoreboardping: Ping
 a061f9fa-88de-4193-8db8-34254c3a9580.shopguisellmorethan64: Vender mas de 64 items.
-d096c66b-4543-4bc6-9cba-eaacc3fd859b.shopguiclicktoenter: Haga clic para entrar en esta categoría
+d096c66b-4543-4bc6-9cba-eaacc3fd859b.shopguiclicktoenter: Clic para entrar en esta categoría
 ea87377f-67f1-4049-8fd5-2ecbd4e66659.scoreboardformat: Es
 2fca72ae-bfc9-466a-841c-7d1489b9b83f.shopguibackmainmenulore2: al menú principal
