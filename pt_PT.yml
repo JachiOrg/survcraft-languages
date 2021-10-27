@@ -11,6 +11,7 @@ aab48f5e-0dfe-4cb4-a455-3a0357a03560.shopguiall: todos
 0894df70-d166-4c93-aab1-fd1581de27b6.scoreboardlevel: Nível
 56e0234f-bb43-492c-b42a-d1635464b4a5.shopguilclicktosell: Clique esquerdo para vender
 711ec088-d7d7-43df-bf1d-d333bd248d59.shopguiservereconomy: Economia do servidor
+c66b9770-a51d-4a46-9186-3ce9767b3562.itemjoinslot8: Menu SurvCraft
 584ab91d-964d-4f53-b22f-17b763c588b1.shopguiyourstats: As suas estatísticas
 594616f2-a509-46a6-99a7-c2adfc6c2a9f.shopguicategoryenchantments: Encantamentos
 5ede0ca6-ba48-43c2-b3f8-d2efd9f2dbd8.shopguiredstonelore: items/blocos relacionados com a redstone.
@@ -44,6 +45,7 @@ d492e4d4-a400-41db-97fa-4f78bb9444c4.shopguithan64: do que 64 items
 f39390df-65eb-42d8-acbd-9effaeedb639.shopguiblocks1.12lore: blocos a partir da versão 1.12.
 cadae4a6-a753-481e-b15a-edf26eddc8fb.shopguibuyprice: Preço de compra
 f52164b7-16bb-4b8c-a31f-29c1b844cd37.shopguiset: Conjunto
+7bd93866-5964-40f3-a552-5d9a31751f49.itemjoinslot8lore: 'Se não conseguir abrir o menu, digite o comando /menu'
 bfc2350c-3d81-4c62-90ef-5994189cf6a6.shopguiexitbulk: Menu de compras de saída
 96e430a2-fbe5-4aad-9627-e43cc1e00d4f.shopguicategorycontains: Esta categoria contém
 dd43d545-a079-4bc3-a570-39e10b54daeb.shopguiheads: cabeças
@@ -68,6 +70,7 @@ be99f21e-a9b9-440e-9b9c-8686bff47b3c.shopguicategorymiscellaneouslore: items/blo
 cc502a3b-46e4-45cd-933a-4655094dc06c.shopguirclicktosell: Clique direito para vender
 566ad726-c052-473c-a45e-bf677b28f06e.shopguicategoryeggslore: todos os tipos de ovos da mobs.
 47994f5e-fb19-48fd-98f7-2cc58b19d552.shopguishoppingcenterlore1: Este é o centro comercial principal
+341a65cf-e4b7-45ec-b024-edf5d5b36fda.hologramwelcomeline3: Bem-vindo a
 ee2ef8f7-9cd6-4899-a13a-97e97ae91c86.shopguicancel: Cancelar
 cfbc20f5-a6b7-4d02-b3fa-db4700b95b7e.shopguilclicktoadd: Clique esquerdo para adicionar
 fc4e8620-f733-48ad-94fc-9ffdc440244c.shopguicategorydecorationslore: items/blocos decorativos.
