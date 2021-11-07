@@ -1,3 +1,4 @@
+332f1e76-be97-4961-8b62-107cadb2b17b.guidisplayshops: Lojas
 1f943161-a5fd-4151-bef0-37e9772bf626.shopguicategoryfarmlore: artigos agrícolas e alimentares.
 bf41da93-2788-4450-8684-4443d55f988b.shopguistacks: stacks
 118b1ec3-dace-4f60-be5c-564432c34c21.shopguicategorywoodlore: relacionado com madeira
@@ -7,17 +8,23 @@ f256797a-8c63-4370-b6c2-b0c0fb813e38.shopguicategorydecorations: Decorações
 82d82214-9ab4-43d8-89e5-e92bb5dbde78.shopguipluscategorybrewing: Cerveja
 90e56576-3866-418a-bf91-e6f31269f587.shopguiplusblocks2: Blocos
 91828596-4e85-4639-813b-4837a907bd1d.shopguithisadds: Isto acrescenta
+9c04b5c5-98b0-4d09-8e51-4dfd3448550b.guiloresurvletsshop3: do servidor
 aab48f5e-0dfe-4cb4-a455-3a0357a03560.shopguiall: todos
 0894df70-d166-4c93-aab1-fd1581de27b6.scoreboardlevel: Nível
 56e0234f-bb43-492c-b42a-d1635464b4a5.shopguilclicktosell: Clique esquerdo para vender
 711ec088-d7d7-43df-bf1d-d333bd248d59.shopguiservereconomy: Economia do servidor
+3d2460fd-fb15-49f1-9334-20c1d6b27a4b.guidisplaysurvletsshop: Loja de Survlets
 c66b9770-a51d-4a46-9186-3ce9767b3562.itemjoinslot8: Menu SurvCraft
+5f710bbd-b39a-4e37-82a3-3ed0bdf53495.guiloretriensshop6: Moeda Triens (Grátis)
 584ab91d-964d-4f53-b22f-17b763c588b1.shopguiyourstats: As suas estatísticas
 594616f2-a509-46a6-99a7-c2adfc6c2a9f.shopguicategoryenchantments: Encantamentos
+0b1e378d-337c-4283-b332-8e91f491aaa8.guiloretriensshop1: Visite esta loja para comprar
 5ede0ca6-ba48-43c2-b3f8-d2efd9f2dbd8.shopguiredstonelore: items/blocos relacionados com a redstone.
 54306c7a-8863-4c61-a1fa-f92297dbad24.shopguiremove: Remover
 1abca69a-5985-45b6-8224-fa5d045648ed.shopguionetime: uma vez
 a3d77b1d-1d28-450c-a98a-74cb2b6beeef.shopguicategoryslabslore: todas as lajes
+0e5b12dc-cf66-4683-aea8-3fe43bdac1a2.guidisplaycraftingtable: Mesa de trabalho
+71ddbb93-c4cd-46b0-b488-d6ec000cc2cb.guidisplayprofile: Perfil
 9b49f5e7-3ee4-4ccc-b9b2-3e77e0c54daa.shopguiwallet: Carteira
 91cc96f4-0937-4e9c-abe7-0937ea0b0138.shopguipermission: Esta é uma permissão
 76f0bcd3-1993-45d8-a661-3bacffbe4ee2.shopguicommand: Este é um comando
@@ -25,24 +32,30 @@ d6b461ef-ecbe-4e83-ac42-c5ca48e61872.shopguisellall: Vender todos os items
 13093412-f2ba-420a-8d38-ddbcb6100b65.shopguicategorypotions: Poções
 6e62b4ba-ce9f-4b0e-bc70-eb3ef8a438e1.shopguicategorypotionslore: todas as poções.
 94f77ae7-e931-4ea7-b16b-7c307fae7957.shopguishoppingcenterlore2: 'principal do servidor, aqui pode comprar'
+e141f86b-1472-4db4-ac62-513a3c22b408.guitopseller: Bestsellers!
 e427338b-af39-4fd0-9c21-62ccc44d1012.shopguicategorybanner: Banners
 faad644d-338f-4628-8f94-30a1113885c4.tabplaying1: Está a brincar com
 61daeeb7-ac3c-4689-b2e7-b2192e4cdf9e.shopguicategoryabilitylore: a que pode comprar o acesso.
 55f8db29-80ff-4ba6-990f-a0cf2effa24c.shopguicategoryweaponslore: armas e armaduras.
 2f10ee2a-12f7-4df4-aa95-2be734c59b83.shopguicategoryoreslore: blocos de minério/ingoto.
 0af94c7b-f238-4519-84fa-fa500b233754.shopguicategoryexpshoplore1: artigos que
+6c4fcee6-1043-4e88-bde8-0b9a0978e2a2.guidisplaywarps: Warps
 39c4467d-5817-4881-9de3-e8d3c59d9723.shopguipluscategorybrewinglore: ingredientes de fabrico de cerveja.
 4270c3a7-1588-4a66-8262-7c449956e406.shopguicancelselection: Cancele a sua selecção
 592c2efb-4e52-4ef8-9c2b-885e79e27fb8.shopguicategoryores: Ores
+737a22fa-65b1-4101-9e03-c67047b17d38.guiloretriensshop3: precisa
 3722b3f3-a843-4d98-8e29-9a79a00c8804.shopguititle: Loja de artigos
 8ca15444-d92b-4121-9e9d-ac033bb72a14.shopguisellprice: Preço de Venda
 b4032719-68cc-4007-9269-029b61a05b7a.shopguipreviouspagelore1: Clique para virar
+42efa4ac-9942-4866-b5a4-799dcedefeee.guidisplayenderchest: Baú de Ender
 18164927-602e-4845-a9e6-ecad90fc4cd2.shopguisetamount: Definir o montante para
 c0079c9c-3c8e-48b6-8f74-227c1d3d34ea.shopguicategoryenchantmentslore: livros encantados.
 1fe464f9-dfe5-4b76-b9dc-7dcac19153b3.shopguicategortytools: Ferramentas
 0927d38c-5ed2-4907-bd49-d1895016e641.shopguipiece: peça
 d492e4d4-a400-41db-97fa-4f78bb9444c4.shopguithan64: do que 64 items
 f39390df-65eb-42d8-acbd-9effaeedb639.shopguiblocks1.12lore: blocos a partir da versão 1.12.
+1065d665-9f4a-4208-b20e-3f9b3c8d37ee.guidisplaybattlepass: Passe de batalha
+abd746b5-4f86-40af-b230-d05564cd8e21.hologramwelcomeline8: para abrir o menu principal do servidor.
 cadae4a6-a753-481e-b15a-edf26eddc8fb.shopguibuyprice: Preço de compra
 f52164b7-16bb-4b8c-a31f-29c1b844cd37.shopguiset: Conjunto
 7bd93866-5964-40f3-a552-5d9a31751f49.itemjoinslot8lore: 'Se não conseguir abrir o menu, digite o comando /menu'
@@ -60,6 +73,7 @@ bdf88291-e91b-4303-933e-67063ad91f02.shopguicategorybannerlore: vários tipos de
 ca72a3ea-2df1-462b-a343-3119f17d2679.shopguicategoryexpshop: Loja EXP
 6d914bb1-f712-4753-9564-536226149a1b.shopguiblocks: blocos
 d6c179db-6859-47b0-ada5-29cf60f8ba97.shopguicategortytoolslore: todos os tipos de ferramentas.
+e620e473-79dc-4163-9018-282a1ca84c19.guiloretriensshop2: qualquer bloco de minecraft
 9c167eb5-771b-47eb-90f2-3830e6034cfd.shopguicategoryblockslore: blocos de construção básicos.
 69b0a925-348b-40dd-8e4c-d5fe84902d2b.shopguiitem: item
 4c897411-54c4-4176-bdc3-fc93524cad6e.shopguishoppingcenter: CENTRO COMERCIAL
@@ -72,6 +86,7 @@ cc502a3b-46e4-45cd-933a-4655094dc06c.shopguirclicktosell: Clique direito para ve
 47994f5e-fb19-48fd-98f7-2cc58b19d552.shopguishoppingcenterlore1: Este é o centro comercial principal
 341a65cf-e4b7-45ec-b024-edf5d5b36fda.hologramwelcomeline3: Bem-vindo a
 ee2ef8f7-9cd6-4899-a13a-97e97ae91c86.shopguicancel: Cancelar
+ce9450fa-a965-4068-866d-32a098ecf825.guiloretriensshop4items: Items
 cfbc20f5-a6b7-4d02-b3fa-db4700b95b7e.shopguilclicktoadd: Clique esquerdo para adicionar
 fc4e8620-f733-48ad-94fc-9ffdc440244c.shopguicategorydecorationslore: items/blocos decorativos.
 894f7280-37b9-4199-95db-5835061cc923.shopguilclicktoremove: Clique esquerdo para apagar
@@ -80,12 +95,16 @@ fc4e8620-f733-48ad-94fc-9ffdc440244c.shopguicategorydecorationslore: items/bloco
 a653be4c-4f78-44a7-8fe7-29fddb4d6b1e.shopguibuy: Comprar
 87b1aef1-9f67-49b1-a7a5-98c2763f5dae.shopguisell: Venda
 3f3cd338-3f9d-4ebd-bd3b-4e56b93691a9.shopguicategoryexpshoplore2: só pode ser comprado com exp.
+ccba6dd8-3ab0-4105-9960-06d711b71112.guispacer: Este é um espaçador.
 a956b4f1-e71f-4e54-9388-428477034a54.scoreboardplayer: Jogador
 bd2062a8-2c28-41e6-bd4e-925367b668b1.shopguistacks: stacks
 ce93116b-d191-4692-ade6-3cb80db3e9c2.scoreboardrank: Gama
+8a3df1d7-1d3c-4229-a56b-c7288f85d80b.guiloretriensshop5category: Categorias
 27e52603-3906-4568-b54d-02da781c4e7a.shopguinextpage: Página seguinte
 edb84e2a-cc3d-44b9-8095-914ff8d55068.shopguicategorydescription: Descrição da categoria
 586adf16-6cb1-453e-87c8-c53a4a76508c.shopguimore: mais
+ec9b1f46-fa95-47fb-b36c-c619a9e76639.guidisplayclose: Fechar
+5216c17f-0aef-4399-a212-dd623f19b4fd.guidisplayshopsinfo: O que significa Triens ou Survlets?
 882425ef-3dc7-47a9-8377-17f2b400e5f3.shopguicategorymiscellaneous: Miscelânea
 95af044f-cf68-4dce-b8fd-646cba8d1200.shopguicategoryheads: Cabeças personalizadas
 0b7fc9cb-cd01-4d4b-a46c-9bf4da3933a2.shopguilclicktoset: Clique esquerdo para definir
@@ -94,7 +113,12 @@ d95d1a1e-4bb3-422c-a1ec-89aadc6eed73.shopguiconfirmselection: Confirme a sua sel
 ab21ccea-77c5-4a06-9b6e-ca88f9072156.shopguibuyprice: Preço de compra
 2c58dceb-63bc-4a31-bca9-22081b958f04.shopguislabs: lajes
 ca4758ca-966c-4867-9120-dd75cfbe534f.shopguipricerangesell: Faixa de preços de venda
+d7a4b2d2-4562-4548-92f1-dd9bd74e4b61.guidisplayhelp: Ajuda
+601126c5-0969-4885-90b2-251ad7b865ae.guidisplaybackpack: Mochila
+9cf2cb40-1a9b-4ba9-8dce-243724381e5f.guiloresurvletsshop1: Visite esta loja para comprar
 002dad8c-c326-4957-9ab3-a7c171bc8fdc.shopguipreviouspagelore2: a página para trás
+865f0c38-a058-4d57-961e-6bc145556d91.hologramwelcomeline7: Clique na estrela no seu inventário
+d30dce8a-aa34-4ecc-8dc3-643e87e98cad.guidisplaylibrary: Biblioteca
 0a61c538-2901-470b-b9f6-9da3eaf8b927.shopguishoppingcenterlore3: ou vender todo o tipo de blocos e artigos.
 2d25de52-568a-4c28-b2c5-15c5767cae36.shopguicategorystairslore: todos os degraus.
 077b2b9c-f5ab-4d7e-a859-c054c5f513e9.shopguipricerangebuy: Gama de preços de compra
@@ -103,10 +127,12 @@ cae7c4d5-fb82-48f9-9f5a-d0f86a8979cc.shopguicategoryblocks1.17lore: blocos a par
 390b252f-80bc-4fce-aa27-6b56ac4aa90a.shopguicategoryslabs: Lajes
 47f7ef6d-917b-46af-8477-57efa68a5f45.shopguiremoves: Isto remove
 650445df-ab2d-4405-9bbe-aaf67586deeb.shopguistack: stack
+3fcdbff1-c925-4759-a044-7f01a83c8564.hologramwelcomeline6: Precisa de ajuda para começar?
 105deccf-f9a2-49f8-bfef-f56b65c28671.shopguipreviouspage: Página anterior
 c23f9e87-d77e-4845-9d77-14289f7faeba.shopguiconfirm: Confirme
 1de65414-e8db-4c7f-9596-0ccce53a9958.shopguiadd: Adicionar
 98ccc15e-5ae8-46e6-86f0-374f5f35d1b0.shopguiitems: items
+94287d70-2a2d-441d-87ba-abb6a1720bef.guidisplaytriensshop: Loja de artigos
 c0f9f197-a1e1-4d84-bde9-42194ef56916.scoreboardname: Nome
 85e19569-8037-4b8e-ae5a-1e4c57ba84d2.shopguicategoryweapons: Armas e Armaduras
 045b0cda-0d61-4dfe-ae5a-409f72635866.shopguilclicktocancel: Clique esquerdo para cancelar
@@ -119,5 +145,6 @@ a061f9fa-88de-4193-8db8-34254c3a9580.shopguisellmorethan64: Vender mais de 64 it
 1f37913a-b2b0-4bc6-a95e-69334d9a802d.shopguicategorystairs: Escadas
 d096c66b-4543-4bc6-9cba-eaacc3fd859b.shopguiclicktoenter: Clique para entrar nesta categoria
 ea87377f-67f1-4049-8fd5-2ecbd4e66659.scoreboardformat: Pt
+78f8b7f1-8df4-4e33-9187-75b4d8440cd6.guiloresurvletsshop2: itens com a moeda de pagamento
 f182ce14-5a41-4ed8-b8c8-b84898cdd0e5.shopguibanners: banners
 2fca72ae-bfc9-466a-841c-7d1489b9b83f.shopguibackmainmenulore2: ao menu principal
